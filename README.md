@@ -8,4 +8,4 @@ Brazil is the most populous country in South America. We are given charge of the
 
 • Italy
 
-The goal of the project is to demonstrate how to use all the knowledge you have acquired during the course in a real-world setting. You are provided with the dataset that will serve as a start point to analyse the problem.
+
